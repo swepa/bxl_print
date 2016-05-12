@@ -2,7 +2,7 @@
 <widget id="se.tvic.print" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>TVIC Print Utility</name>
     <description>
-        Tvic print utnility app for printing receipts.
+        Tvic print utnility 1 app for printing receipts.
     </description>
     <author email="asim.riaz@tvic.se" href="http://tvic.se">
         Tvic Team
@@ -27,7 +27,7 @@
     <preference name="android-minSdkVersion" value="7" />
     <preference name="android-installLocation" value="auto" />
     
-    <plugin name="it.alfonsovinti.cordova.plugins.bixolonprint" spec="1.3.0" source="pgb" />
+
     
     <icon src="icon.png" />
     <icon gap:density="ldpi" gap:platform="android" src="res/icon/android/icon-36-ldpi.png" />
