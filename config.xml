@@ -2,7 +2,7 @@
 <widget id="se.tvic.print" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>TVIC Print Utility</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Tvic print utnility app for printing receipts.
     </description>
     <author email="asim.riaz@tvic.se" href="http://tvic.se">
         Tvic Team
